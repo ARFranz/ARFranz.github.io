@@ -216,9 +216,9 @@ nav{
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 141px;
+  width: 120px;
   height: 120px;
-  background-image: url(images/icon.png);
+  background-image: url(images/main-icon-0.png);
   background-size:contain;
   background-position: center;
   position: sticky;
