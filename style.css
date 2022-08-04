@@ -212,6 +212,17 @@ nav{
   position: relative;
   border: 3px solid #000;
 }
+.img-lab{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 530px;
+  height: 450px;
+  background-image: url(images/lab.png);
+  background-size:  cover;
+  position: relative;
+  border: 3px solid #000;
+}
 .img-about{
   display: block;
   margin-left: auto;
